@@ -1,0 +1,7 @@
+# Defaults
+REDIS_VER=2.8.19
+UPDATE_LINUX_PACKAGES=false      #OPTION [ true|false ]
+REDIS_INSTANCE_NAME=redis-server
+REDIS_INSTANCE_PORT=6379         #Setting untuk master node
+REDIS_MASTER_IP=127.0.0.1
+REDIS_MASTER_PORT=6379
